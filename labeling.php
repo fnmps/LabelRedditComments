@@ -26,19 +26,21 @@ $_SESSION['author'] = $author;
 //The labels that are inserted into the database
 var labels = 
 	[ 
-		"IRONIC",               
-		"NOT-IRONIC",               
-		"ND",               
-		"NA"              
+		"#####",    //LABEL1         
+		"#####",    //LABEL2         
+		"#####",  	//LABEL3         
+		"#####"     //LABEL4
+					// etc.    
 	]
 
 //The labels that are shown to the user
 var labelnames = 
 	[      
-		"Ironic",     
-		"Not Ironic",     
-		"Don't Remember",     
-		"Not Applicable"
+		"#####",    //LABELNAME1
+		"#####",    //LABELNAME2
+		"#####",   	//LABELNAME3  
+		"#####"    	//LABELNAME4
+					// etc.
     ]
 
 
