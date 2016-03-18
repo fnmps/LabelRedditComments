@@ -1,0 +1,77 @@
+@CHARSET "UTF-8";
+
+html, body {
+	font-size:large;
+}
+
+#indexMessage{
+	border: 1px solid;
+	background-color:#FFDB8F;
+	padding: 20px;
+}
+
+#definition{
+	border: 1px solid;
+	margin-bottom: 5px;
+        background-color:#FFDB8F;
+        padding: 5px;
+	text-align: left;
+	font: 16px sans-serif;
+}
+
+#loginDiv {
+	text-align:center;
+	width: 100%;
+	margin-top: 100px;
+}
+
+.button{
+	font-size: large;
+	width: 150px;
+	font: 26px sans-serif;
+}
+
+.answer{
+	margin: 10px;
+	font-size: large;
+	width: 250px;
+	height: 100px;
+	font: 26px sans-serif;
+}
+
+.ui-progressbar {
+    position: relative;
+}
+
+#progress-label {
+	position: absolute;
+	width: 100%;
+	text-align:center;
+	top: 4px;
+	font-weight: bold;
+	text-shadow: 1px 1px 0 #fff;
+	font: 26px sans-serif;
+}
+
+#permalinkDiv{
+	font: 26px sans-serif;
+}
+
+.segment {
+	margin-bottom: 50px;
+}
+
+.comment {
+	overflow: scroll;
+	text-align: left; 
+	border: 1px solid; 
+	height: 25%;
+	margin:20px;
+	margin-bottom: 0px;
+	padding:20px;
+	font: 26px sans-serif;
+}
+
+label {
+    display: inline-block;
+}
