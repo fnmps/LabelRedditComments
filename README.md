@@ -1,6 +1,17 @@
 # LabelRedditComments
 A software with an interface to label reddit comments
 
+## Requirements
+
+Python 2.7 with the following libraries:
+
+- PRAW
+- MySQL
+
+MySQL 5.5.3 or higher
+
+PHP server which allows CGI scripts
+
 ## How to use this software
 
 1) Start a mysql server in your server.
